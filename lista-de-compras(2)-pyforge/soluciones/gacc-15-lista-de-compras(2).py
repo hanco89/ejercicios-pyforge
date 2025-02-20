@@ -166,3 +166,4 @@ inventario = Inventario() # Se inicia una instancia de la clase Inventario
 
 if __name__ == "__main__": # Condicional para verificar que el codigo se este ejecutando desde el mismo archivo
 	main(inventario) # Se llama la funcion main donde se le pasa como argumento la instancia de la clasd Inventario definida anteriormente
+#.
